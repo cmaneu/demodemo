@@ -10,13 +10,13 @@
   ],
   "serviceRequests": [
 {
-  status: "Open",
-  createdAt: "Monday",
-  customerContact,
-  location: "Paris",
-  timezone: "France",
-  sla: true,
-  type: "ADS"
+  "status": "Open",
+  "createdAt": "Monday",
+  "customerContact",
+  "location": "Paris",
+  "timezone": "France",
+  "sla": true,
+  "type": "ADS"
 }
 ]
 }
