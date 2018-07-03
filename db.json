@@ -12,7 +12,7 @@
 {
   "status": "Open",
   "createdAt": "Monday",
-  "customerContact",
+  "customerContact": "Jean Cives",
   "location": "Paris",
   "timezone": "France",
   "sla": true,
