@@ -1,4 +1,6 @@
-[
+{
+  "servicerequests":
+  [
 {
   status: "Open",
   createdAt: "Monday",
@@ -9,3 +11,4 @@
   type: "ADS"
 }
 ]
+}
