@@ -1,22 +1,48 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "serviceRequests": [
-{
-  "status": "Open",
-  "createdAt": "Monday",
-  "customerContact": "Jean Cives",
-  "location": "Paris",
-  "timezone": "France",
-  "sla": true,
-  "type": "ADS"
-}
-]
+    {
+      "status": "Open",
+      "createdAt": "Monday",
+      "customerContact": "Jean Cives",
+      "location": "Paris",
+      "timezone": "France",
+      "sla": true,
+      "type": "ADS"
+    },
+    {
+      "status": "Waiting for Customer",
+      "createdAt": "Tuesday",
+      "customerContact": "Abbé Canne",
+      "location": "Toulouse",
+      "timezone": "France",
+      "sla": false,
+      "type": "Pray"
+    }
+  ]
 }
