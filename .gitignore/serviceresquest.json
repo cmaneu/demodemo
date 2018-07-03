@@ -1,0 +1,11 @@
+[
+{
+  status: "Open",
+  createdAt: "Monday",
+  customerContact,
+  location: "Paris",
+  timezone: "France",
+  sla: true,
+  type: "ADS"
+}
+]
