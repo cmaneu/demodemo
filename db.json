@@ -27,22 +27,22 @@
   ],
   "serviceRequests": [
     {
-      "status": "Open",
-      "createdAt": "Monday",
-      "customerContact": "Jean Cives",
-      "location": "Paris",
-      "timezone": "France",
-      "sla": true,
-      "type": "ADS"
+      "Status": "Open",
+      "CreatedAt": "Monday",
+      "CustomerContact": "Jean Cives",
+      "Location": "Paris",
+      "Timezone": "France",
+      "Sla": true,
+      "Type": "ADS"
     },
     {
-      "status": "Waiting for Customer",
-      "createdAt": "Tuesday",
-      "customerContact": "Abbé Canne",
-      "location": "Toulouse",
-      "timezone": "France",
-      "sla": false,
-      "type": "Pray"
+      "Status": "Waiting for Customer",
+      "CreatedAt": "Tuesday",
+      "CustomerContact": "Abbé Canne",
+      "Location": "Toulouse",
+      "Timezone": "France",
+      "Sla": false,
+      "Type": "Pray"
     }
   ]
 }
